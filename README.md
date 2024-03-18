@@ -1,1 +1,1 @@
-# aula-logica-fundamentos-programacao
+# Repositório de conteúdos para as aulas da disciplina de Lógica e Fundamentos de Programação
