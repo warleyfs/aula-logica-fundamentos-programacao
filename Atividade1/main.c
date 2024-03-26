@@ -50,15 +50,15 @@ int main()
     {
         // Monta o menu
         printf("LOGICA E FUNDAMENTOS DE PROGRAMACAO\n");
-        printf("Tarefa 01 - Programas utilitarios para sistema de controle de producao\n");
-        printf("======================================================================\n");
+        printf("Atividade 01 - Programas utilitarios para sistema de controle de producao\n");
+        printf("=========================================================================\n");
         
         for (int i = 0; i < 11; i++)
         {
             printMenuItem(&(menu[i]));
         }
 
-        printf("======================================================================\n");
+        printf("=========================================================================\n");
         printf("\n");
         printf("Escolha uma opcao: ");
 
